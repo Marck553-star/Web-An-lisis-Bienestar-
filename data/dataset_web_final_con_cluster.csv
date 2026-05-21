@@ -4,7 +4,7 @@
 2010;Cantabria;11,65;64,71;1,13;49,73;3;Perfil saludable alto
 2010;Cataluña;14,2;55,93;17,86;49,17;4;Perfil intermedio
 2010;País Vasco;14,7;63,09;5,01;44,96;5;Perfil saludable alto
-2010;Balears, Illes;14,7;54,78;4,17;39,54;6;Perfil de riesgo
+2010;Balears, Illes;14,7;54,78;4,17;39,54;6;Perfil intermedio
 2010;Comunitat Valenciana;16,4;50,01;9,91;36,66;7;Perfil intermedio
 2010;Rioja, La;14,8;53,54;0,66;36,56;8;Perfil saludable alto
 2010;Aragón;15,7;54,32;2,27;36,17;9;Perfil saludable alto
@@ -24,7 +24,7 @@
 2011;País Vasco;15,3;79,83;4,77;53,55;6;Perfil saludable alto
 2011;Aragón;15,7;67,69;2,32;44,13;7;Perfil saludable alto
 2011;Comunitat Valenciana;17,3;65,32;9,88;43,94;8;Perfil intermedio
-2011;Balears, Illes;15,1;60,34;4,1;42;9;Perfil de riesgo
+2011;Balears, Illes;15,1;60,34;4,1;42;9;Perfil intermedio
 2011;Asturias, Principado de;18,7;73,46;2,34;41,6;10;Perfil de riesgo
 2011;Madrid, Comunidad de;14,3;43,78;15,25;40,25;11;Perfil intermedio
 2011;Galicia;19,2;61,46;6,26;35,76;12;Perfil de riesgo
@@ -40,7 +40,7 @@
 2012;País Vasco;15,3;79,78;4,59;53,42;5;Perfil saludable alto
 2012;Comunitat Valenciana;17,3;69,84;9,94;46,65;6;Perfil intermedio
 2012;Aragón;15,7;67,16;2,35;43,83;7;Perfil saludable alto
-2012;Balears, Illes;15,1;63,32;4,16;43,8;8;Perfil de riesgo
+2012;Balears, Illes;15,1;63,32;4,16;43,8;8;Perfil intermedio
 2012;Madrid, Comunidad de;14,3;44,48;15,22;40,65;9;Perfil intermedio
 2012;Rioja, La;14,9;55,77;0,69;37,7;10;Perfil saludable alto
 2012;Asturias, Principado de;18,7;66,68;2,3;37,55;11;Perfil de riesgo
@@ -55,7 +55,7 @@
 2013;Cantabria;13,1;77,25;1,25;54,35;3;Perfil saludable alto
 2013;País Vasco;14,15;75,45;4,29;52,96;4;Perfil saludable alto
 2013;Cataluña;14,65;63,34;17,55;52,49;5;Perfil intermedio
-2013;Balears, Illes;14,15;58,95;4,13;43,08;6;Perfil de riesgo
+2013;Balears, Illes;14,15;58,95;4,13;43,08;6;Perfil intermedio
 2013;Aragón;16,15;67,2;2,38;42,98;7;Perfil saludable alto
 2013;Comunitat Valenciana;17,3;61,99;10,1;42,09;8;Perfil intermedio
 2013;Rioja, La;14,65;58,39;0,71;39,77;9;Perfil saludable alto
@@ -76,7 +76,7 @@
 2014;Comunitat Valenciana;17,3;64,22;10,2;43,47;7;Perfil intermedio
 2014;Aragón;16,6;64,13;2,51;40,34;8;Perfil saludable alto
 2014;Madrid, Comunidad de;14,6;41,88;15,28;38,54;9;Perfil intermedio
-2014;Balears, Illes;13,2;48,18;3,94;38,47;10;Perfil de riesgo
+2014;Balears, Illes;13,2;48,18;3,94;38,47;10;Perfil intermedio
 2014;Galicia;20,7;69,89;6,36;37,83;11;Perfil de riesgo
 2014;Asturias, Principado de;18,6;65,03;2,21;36,72;12;Perfil de riesgo
 2014;Murcia, Región de;17,3;49,51;2,72;30,4;13;Perfil de riesgo
@@ -91,7 +91,7 @@
 2015;Aragón;16,3;75,52;2,58;47,73;5;Perfil saludable alto
 2015;Cantabria;15,9;74,78;1,28;47,33;6;Perfil saludable alto
 2015;Comunitat Valenciana;17,8;69,44;10,12;45,52;7;Perfil intermedio
-2015;Balears, Illes;13,97;53,94;3,88;40,32;8;Perfil de riesgo
+2015;Balears, Illes;13,97;53,94;3,88;40,32;8;Perfil intermedio
 2015;Madrid, Comunidad de;15,03;44,68;15,38;39,41;9;Perfil intermedio
 2015;Galicia;19,93;64,66;6,27;36,21;10;Perfil de riesgo
 2015;Rioja, La;14,6;52,14;0,68;36,14;11;Perfil saludable alto
@@ -108,7 +108,7 @@
 2016;Cantabria;16,7;83,51;1,23;50,89;5;Perfil saludable alto
 2016;Navarra, Comunidad Foral de;14,17;72,47;1,25;49,39;6;Perfil saludable alto
 2016;Rioja, La;14,8;74,77;0,67;49,16;7;Perfil saludable alto
-2016;Balears, Illes;14,73;68,78;3,85;47,6;8;Perfil de riesgo
+2016;Balears, Illes;14,73;68,78;3,85;47,6;8;Perfil intermedio
 2016;Comunitat Valenciana;18,3;72,65;10,27;46,52;9;Perfil intermedio
 2016;Madrid, Comunidad de;15,47;50,6;15,22;41,95;10;Perfil intermedio
 2016;Galicia;19,17;61,66;6,28;35,95;11;Perfil de riesgo
@@ -128,7 +128,7 @@
 2017;Comunitat Valenciana;18,8;72,28;10,56;45,48;8;Perfil intermedio
 2017;Galicia;18,4;70,94;6,19;42,94;9;Perfil de riesgo
 2017;Madrid, Comunidad de;15,9;48,92;15,1;40,03;10;Perfil intermedio
-2017;Balears, Illes;15,5;55,17;3,87;38;11;Perfil de riesgo
+2017;Balears, Illes;15,5;55,17;3,87;38;11;Perfil intermedio
 2017;Murcia, Región de;16,1;54,98;2,84;36,1;12;Perfil de riesgo
 2017;Extremadura;19,3;64,48;1,98;34,86;13;Perfil de riesgo
 2017;Asturias, Principado de;21,7;65,87;2,13;31;14;Perfil de riesgo
@@ -148,7 +148,7 @@
 2018;Extremadura;17,13;65,92;1,92;40;11;Perfil de riesgo
 2018;Murcia, Región de;17,1;64,25;2,88;39,63;12;Perfil de riesgo
 2018;Canarias;18,7;66,11;5,81;39,25;13;Perfil de riesgo
-2018;Balears, Illes;15,8;55,89;3,83;37,81;14;Perfil de riesgo
+2018;Balears, Illes;15,8;55,89;3,83;37,81;14;Perfil intermedio
 2018;Asturias, Principado de;20,83;62,12;2,19;30,54;15;Perfil de riesgo
 2018;Andalucía;20,57;43,85;14,7;27,5;16;Perfil de riesgo
 2018;Castilla La Mancha;18,33;33,82;3,78;19,65;17;Perfil de riesgo
@@ -165,7 +165,7 @@
 2019;Galicia;17,13;64,46;6,22;41,64;11;Perfil de riesgo
 2019;Cantabria;14,97;59,74;1,43;40,35;12;Perfil saludable alto
 2019;Murcia, Región de;18,1;63,66;2,83;37,26;13;Perfil de riesgo
-2019;Balears, Illes;16,1;52,22;3,79;35,01;14;Perfil de riesgo
+2019;Balears, Illes;16,1;52,22;3,79;35,01;14;Perfil intermedio
 2019;Asturias, Principado de;19,97;65,4;2,26;34,24;15;Perfil de riesgo
 2019;Andalucía;20,1;44,94;14,61;29,02;16;Perfil de riesgo
 2019;Castilla La Mancha;16,37;37,79;3,79;25,92;17;Perfil de riesgo
@@ -183,7 +183,7 @@
 2020;Asturias, Principado de;19,1;44,03;2,22;23,27;12;Perfil de riesgo
 2020;Canarias;17,5;34,19;5,87;22,74;13;Perfil de riesgo
 2020;Murcia, Región de;19,1;37,18;2,8;19,55;14;Perfil de riesgo
-2020;Balears, Illes;16,4;22,55;3,77;16,8;15;Perfil de riesgo
+2020;Balears, Illes;16,4;22,55;3,77;16,8;15;Perfil intermedio
 2020;Castilla La Mancha;14,4;15,05;3,72;16,31;16;Perfil de riesgo
 2020;Andalucía;19,7;18,08;14,68;13,93;17;Perfil de riesgo
 2021;Navarra, Comunidad Foral de;11,95;82,91;1,6;60,2;1;Perfil saludable alto
@@ -199,7 +199,7 @@
 2021;Canarias;16,15;38,31;5,77;27,81;11;Perfil de riesgo
 2021;Asturias, Principado de;17,8;46,21;2,15;27,11;12;Perfil de riesgo
 2021;Extremadura;13,8;27,59;1,77;23,81;13;Perfil de riesgo
-2021;Balears, Illes;15,6;27,3;3,74;21,2;14;Perfil de riesgo
+2021;Balears, Illes;15,6;27,3;3,74;21,2;14;Perfil intermedio
 2021;Murcia, Región de;17,35;32,24;2,76;20,07;15;Perfil de riesgo
 2021;Andalucía;17,9;21,67;14,7;19,65;16;Perfil de riesgo
 2021;Castilla La Mancha;15,55;17,93;3,62;15,67;17;Perfil de riesgo
@@ -216,7 +216,7 @@
 2022;Madrid, Comunidad de;11,8;24,15;14,61;33,21;11;Perfil intermedio
 2022;Asturias, Principado de;16,5;46,67;2,18;29,99;12;Perfil de riesgo
 2022;Andalucía;16,1;26,19;14,94;26,05;13;Perfil de riesgo
-2022;Balears, Illes;14,8;29,3;3,76;23,99;14;Perfil de riesgo
+2022;Balears, Illes;14,8;29,3;3,76;23,99;14;Perfil intermedio
 2022;Extremadura;14,8;28,45;1,8;22,34;15;Perfil de riesgo
 2022;Murcia, Región de;15,6;26,7;2,82;20,31;16;Perfil de riesgo
 2022;Castilla La Mancha;16,7;22,93;3,61;16,34;17;Perfil de riesgo
